@@ -2,6 +2,9 @@
 
 Modern Laravel/Inertia form builder with shareable public forms, dynamic JSON-driven fields, and authenticated response management. Built for a better alternative to classic static form workflows.
 
+## Interface Preview
+![Form Builder UI](Screenshots/LandingPage.png)
+
 ## Features
 
 - Create reusable online forms with custom structure
